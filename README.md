@@ -1,4 +1,4 @@
-<h1 align="center">Hola , I'm Shubham Patil</h1>
+<h1 align="center">Hola , I'm Shubham</h1>
 <h3 align="center">A student programmer suffering with music addiction and adhd</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shucrates&label=Profile%20views&color=0e75b6&style=flat" alt="shucrates" /> </p>
